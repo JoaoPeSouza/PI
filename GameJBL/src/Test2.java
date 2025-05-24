@@ -178,27 +178,3 @@ public class Test2 {
 
 
 
-
-//                                                    -----------NOTAS AO TUTOR----------
-
-/* 
-
-
-Não consta outras telas adicionais pois o responsável pelas inplementações da mesma utilizou IA para inseri-las dentro do projeto, o que acarretou no
-mal funcionamento do mesmo.
-
-Um dos integrantes fez amplo uso de Inteligência artifical para desenvolver a sua parte no código, deixando-o extremamente bagunçado e de difícil entendimento.
-Contudo, tentei salvar a parte dele (implementação das questões) fazendo o possível para que o código funcionasse utilizando O QUE FOI PASSADO EM SALA DE AULA 
-e com o que nós aprendemos nas aulas de lógica de programação durante o semestre.
-
-
-Contudo, peço-lhe perdão pela qualidade do trabalho. O mesmo deveria ter sido entregue com a maior qualidade possível; Com a maior dedicação que poderíamos
-colocar no desenvolvimento do mesmo. Porém, devido a falta de dedicação e interesse de alguns membros - na verdade, de todos nós (eu inclusive) - não
-entregamos uma atividade com uma qualidade descente.
-
-Do mais, foi divertido ter estudado essa matéria e ter aplicado os conhecimentos aprendidos durante esse semestre neste projeto. Acredito que com isso eu tenha
-aprendido bastante coisa. Uma delas: não fazer trabalho com quem não empenha-se com suma dedicação no desenvolvimento de atividades acadêmicas e faz excessivo uso
-de Inteligência Artificial para que suas demandas sejam entregues, desprezando a qualidade de suas atividades e o seu aprendizado.
-
-
-*/
